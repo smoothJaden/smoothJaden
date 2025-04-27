@@ -11,7 +11,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with PromptHub:
 
 <p align="center">
   <a href="https://www.instagram.com/big_.benn/" target="_blank">
@@ -27,7 +27,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About PromptHub
 
 - 🔭 I’m currently working on enhancing my content creation skills.
 - 🌱 I’m learning **Content Creation** and exploring the world of development.
