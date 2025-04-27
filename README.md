@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=iyekebenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="iyekebenjamin" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Iyeke Benjamin</h1>
-<h3 align="center">A passionate content creator and aspiring developer from Nigeria</h3>
+<h1 align="center">welcome 👋,PromptHub</h1>
+<h3 align="center">The Next-Generation AI Asset Protocol on Blockchain</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="Coding Animation" />
