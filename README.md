@@ -57,12 +57,6 @@
 
 ### ✨ The Nothing
 
-> “In the quiet moments, creativity whispers. Embrace the silence; it's where ideas are born.”
+> “Unleashing Prompt Potential, Pioneering the AI Economic Revolution.”
 
 ---
-
-### 🎨 Animated Footer
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iyekebenjamin/iyekebenjamin/main/assets/wave.svg" alt="Wave Animation" />
-</p>
