@@ -26,9 +26,9 @@
 
 ### 🧠 About PromptHub
 
-- 🔭 I’m currently working on enhancing my content creation skills.
-- 🌱 I’m learning **Content Creation** and exploring the world of development.
-- 💬 Ask me about anything related to content strategy and digital storytelling.
+- 🔭 PromptHub is a protocol layer and trading system designed for the AI era. As AI models like GPT-4 and Claude become increasingly commoditized, the true value is shifting to the prompt layer - these instructions that control AI behavior are becoming the "code" of the new era.
+- 🌱 Core Philosophy: Prompts are the new code. PromptHub doesn't build AI models, but creates a standardized protocol that transforms static prompts into programmable, version-controlled, tradable assets.
+- 💬 Vision: PromptHub aims to become the Git, DNS, and NFT standard for the AI era - simultaneously serving as a semantic registry, execution router, and monetization protocol, ultimately transforming prompts into true productive assets.
 - 📫 How to reach PromptHub: [prompthub3@gmail.com](mailto:prompthub3@gmail.com)
 
 ---
