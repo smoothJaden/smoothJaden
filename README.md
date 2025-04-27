@@ -14,13 +14,10 @@
 ### 🌐 Connect with PromptHub:
 
 <p align="center">
-  <a href="https://www.instagram.com/big_.benn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/lanezbenny" target="_blank">
+  <a href="https://x.com/prompthub3" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:lanezbenny@gmail.com" target="_blank">
+  <a href="prompthub3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -32,7 +29,7 @@
 - 🔭 I’m currently working on enhancing my content creation skills.
 - 🌱 I’m learning **Content Creation** and exploring the world of development.
 - 💬 Ask me about anything related to content strategy and digital storytelling.
-- 📫 How to reach me: [your_email@example.com](mailto:your_email@example.com)
+- 📫 How to reach PromptHub: [prompthub3@gmail.com](mailto:prompthub3@gmail.com)
 
 ---
 
