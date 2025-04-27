@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=iyekebenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="iyekebenjamin" />
 </p>
 
-<h1 align="center">welcome 👋,PromptHub</h1>
+<h1 align="center">Welcome 👋,PromptHub</h1>
 <h3 align="center">The Next-Generation AI Asset Protocol on Blockchain</h3>
 
 <p align="center">
