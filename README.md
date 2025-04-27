@@ -6,7 +6,7 @@
 <h3 align="center">The Next-Generation AI Asset Protocol on Blockchain</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" alt="Coding Animation" />
+  <img src="https://pbs.twimg.com/profile_banners/1916101667487117312/1745677140/1500x500" width="280px" alt="Coding Animation" />
 </p>
 
 ---
