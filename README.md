@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iyekebenjamin&label=Profile%20views&color=0e75b6&style=flat" alt="iyekebenjamin" />
+  <img src="https://komarev.com/ghpvc/?username=smoothJaden&label=Profile%20views&color=0e75b6&style=flat" alt="smoothJaden" />
 </p>
 
 <h1 align="center">Welcome 👋,PromptHub</h1>
